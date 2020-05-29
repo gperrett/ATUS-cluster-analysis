@@ -1,5 +1,5 @@
 ---
-title: "How does your weekend stack up?"
+title: "Working on the Weekend Like Usual"
 subtitle: "A cluster analysis of how Americans' spend their weekends"
 date:  "`r format(Sys.time(), '%B %d %Y')`"
 output:
